@@ -1,0 +1,26 @@
+﻿[
+  {
+    "question": "what is this internship program?",
+    "answer": "this internship program provides real-world experience in artificial intelligence, machine learning workflows, and hands-on project development."
+  },
+  {
+    "question": "how many tasks do i need to complete?",
+    "answer": "you need to complete a minimum of 2 or 3 tasks out of the 4 assigned tasks to be eligible for internship completion."
+  },
+  {
+    "question": "how do i submit my completed tasks?",
+    "answer": "upload your code to github in repositories named CodeAlpha_ProjectName, post a video explanation on linkedin tagging @CodeAlpha, and submit the links via the official submission form."
+  },
+  {
+    "question": "will i receive a certificate after completion?",
+    "answer": "yes, upon successfully completing and submitting the required tasks, you will receive a verified completion certificate."
+  },
+  {
+    "question": "what programming language is required?",
+    "answer": "python is recommended for developing machine learning, NLP, and computer vision projects."
+  },
+  {
+    "question": "what is the deadline for task submission?",
+    "answer": "all assigned tasks must be submitted within the specified timeframe provided in your WhatsApp group."
+  }
+]

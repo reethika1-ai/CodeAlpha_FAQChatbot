@@ -1,3 +1,8 @@
+---
+
+### project 2: `CodeAlpha_FAQChatbot`
+
+
 # Chatbot for FAQs
 
 An interactive FAQ Chatbot built using Python, Streamlit, NLTK, and Scikit-Learn to answer questions based on NLP preprocessing and cosine similarity matching[cite: 2, 15]. Developed for the CodeAlpha Artificial Intelligence Internship[cite: 1].
@@ -11,17 +16,14 @@ An interactive FAQ Chatbot built using Python, Streamlit, NLTK, and Scikit-Learn
 ## Setup & Installation
 
 1. Clone the repository:
-   \`\`\`bash
-   git clone https://github.com/allurineraj/CodeAlpha_FAQChatbot.git
+   bash
+   git clone [https://github.com/reethika1-ai/CodeAlpha_FAQChatbot.git](https://github.com/reethika1-ai/CodeAlpha_FAQChatbot.git)
    cd CodeAlpha_FAQChatbot
-   \`\`\`
 
-2. Install dependencies:
-   \`\`\`bash
-   pip install -r requirements.txt
-   \`\`\`
+2.Install dependencies:
+Bash
+pip install -r requirements.txt
 
-3. Run the application:
-   \`\`\`bash
-   streamlit run app.py
-   \`\`\`
+3.Run the application:
+Bash
+streamlit run app.py
